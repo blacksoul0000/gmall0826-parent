@@ -8,7 +8,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+<!--注释-->
     <artifactId>gmall0826-common</artifactId>
 
 
